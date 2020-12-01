@@ -14,7 +14,7 @@ function App() {
           <div><code>{A}</code></div>
           <div><code>{B}</code></div>
         </p>
-        <div>6</div>
+        <div>7</div>
       </header>
     </div>
   );
